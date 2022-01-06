@@ -2,25 +2,55 @@
 
 <html>
   <head>
-    <title></title>
+    <title>Spicy Garlic Potato Noodles</title>
     <meta charset="UTF-8"/>
   </head>
 
   <body>
-    <h1></h1>
-    <img src="" alt="" />
+    <h1>Spicy Garlic Potato Noodles</h1>
+    <img src="../images/potato-noodles.jpeg" alt="Potato Noodles" />
 
     <h3>Description</h3>
-    <p></p>
+    <p>When I first started filming and posting recipe videos, I was never too concerned with how well the recipes would turn out. As far as I was concerned, I wasn't in the successful recipe development business, I was in the teaching people how to cook business. So I'd often film things I was brand new to making, like these delicious and addictive potato noodles, and if things went sideways, which was often the case, I would simply use that as a "teaching moment."</p>
+    <p>By the way, I'm not strolling down memory lane to rationalize a recipe gone wrong, since this was a very enjoyable bowl of food, but I am explaining why I didn't perfect the technique before sharing it with the world. What you see in this video is what you might see and feel for yourself, and sometimes that's a better way to go in.</p>
+    <p>The key is to get a nice smooth, roll-able dough before the starch cools and looses its stretchiness. These are traditionally cut into thicker ribbons, and then rolled out into long round noodles, using your palms, but I've not mastered that method quite yet. However, when I do, I might film that version as well. Anyway, I hope you go out and find some potato starch (not potato flour) and give these a try soon. Enjoy! </p>
 
     <h3>Ingredients</h3>
+    <h4>Noodles</h4>
     <ul>
+      <li>1 cup potato starch</li>
+      <li>salt</li>
+      <li>vegtable oil</li>
+      <li>boiling water</li>
       <li></li>
+    </ul>
+    <h4>Garlic Sauce</h4>
+    <ul>
+      <li>2 tbsp oyster sauce</li>
+      <li>2 tbsp soy sauce </li>
+      <li>2 tbsp rice vinegar</li>
+      <li>4 tsp ketchup</li>
+      <li>1/4 tsp sesame oil</li>
+      <li>1 tsp white sugar</li>
+      <li>1 tbsp siracha sauce</li>
+      <li>vegtable oil</li>
+      <li>6 cloves of garlic</li>
+      <li>1 tsp red pepper flakes</li>
+      <li>green onions</li>
+      <li>clilantro</li>
     </ul>
 
     <h3>Steps</h3>
     <ol>
-      <li></li>
+      <li>Combine 1 cup potato starch, salt, and vegetable oil in a bowl. Add a splash of boiling water at a time, stirring between additions, until you get a perfectly textured dough.</li>
+      <li>Transfer to a work surface dusted with a little potato starch. Working quickly while the dough is still warm, knead, adding more potato starch if necessary, until smooth and elastic.</li>
+      <li>Bring a large pot of lightly salted water to a boil. Set out a large bowl of cold water.</li>
+      <li>While the water is boiling, roll dough to a thickness of 1/8 inch. Cut into 1/4-inch noodles with a pizza cutter. Separate noodles.</li>
+      <li>Add potato noodles (in batches if desired) and cook until they float, about 1 minute. Transfer to the bowl of cold water. Repeat to cook remaining noodles.</li>
+      <li>Whisk oyster sauce, soy sauce, rice vinegar, ketchup, sesame oil, sugar, and Sriracha together in a bowl.</li>
+      <li>Heat vegetable oil in a skillet over medium-high heat. Add garlic and sizzle for 15 seconds. Add 1 teaspoon red pepper flakes and green onions; stir-fry for a just few seconds. Before the garlic starts to brown, add in the potato noodles. It's okay that some water comes into the pan as it will stop the cooking process and prevent the garlic from burning.</li>
+      <li>Add sauce and stir until noodles are coated. Cook until noodles are heated through and sauce starts to simmer, 1 to 2 minutes. Turn off the heat and stir in 1/4 cup chopped cilantro.</li>
+      <li>Divide noodles into 2 bowls and garnish with more cilantro and red pepper flakes.</li>
     </ol>
 
   </body>
