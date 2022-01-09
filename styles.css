@@ -1,0 +1,32 @@
+.recipe {
+    background-color: lightblue;
+    font-family: "Time-New-Roman", sans-serif;
+    font-size: 30px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: bold;
+    color: red;
+    background-color: black;
+
+}
+
+ul li {
+    color: blueviolet;
+}
+
+ol li {
+    color: red;
+}
+
+h2 {
+    color: green;
+    background-color: black;
+}
+
+#lasagna {
+    height: auto;
+    width: 800px;
+    text-align: center;
+}
